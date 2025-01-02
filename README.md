@@ -1,1 +1,1 @@
-# veezwp
+# Weez.fun Whitepaper
